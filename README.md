@@ -1,3 +1,3 @@
-# ME_455
+# ME455
 
 This is where I have compiled my homework for ME 455.
